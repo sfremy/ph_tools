@@ -1956,7 +1956,6 @@ def sim_run(m):
 # PART 6: Main Routine
 
 sim_run(M)
-input('')
 
 
 
